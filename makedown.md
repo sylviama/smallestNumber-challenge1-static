@@ -39,7 +39,9 @@ for(i=0;i<string.length;i++){
 
 [Text for the link](https://www.facebook.com)
 
+![leaf pic](https://raw.githubusercontent.com/sylviama0827/smallestNumber-challenge1-static/master/screenfolder/image1.jpg)
 
+### This pic link has to capture from the github image folder and open the image, then copy the url from the address line.
 
 
 
